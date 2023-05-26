@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+.container {
+  width: 200px;
+  background-color: purple;
+  left-border-color: green;
+  left-border-width: 5px;
+/*   left-border-style: solid; */
+  padding: 10px;
+}
+
+/* .left-side {
+  border-color: green;
+  border-width: 5px;
+  border-style: solid;
+  padding: 10px;
+} */
+
+.text {
+  font-size: 20px;
+}
+
+.heading {
+  color: white;
+}
