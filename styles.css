@@ -1,10 +1,10 @@
 
 /* Your CSS Code here. */
-.container {
+.main {
   width: 200px;
-  background-color: purple;
-  left-border-color: green;
-  left-border-width: 5px;
+  background-color: rgb(128, 0, 128);
+  border-left-color: rgb(0, 128, 0);
+  border-left-width: 5px;
 /*   left-border-style: solid; */
   padding: 10px;
 }
@@ -16,10 +16,10 @@
   padding: 10px;
 } */
 
-.text {
+.heading {
   font-size: 20px;
 }
 
 .heading {
-  color: white;
+  color: rgb(255, 255, 255);
 }
