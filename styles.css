@@ -3,23 +3,12 @@
 .main {
   width: 200px;
   background-color: rgb(128, 0, 128);
-  border-left-color: rgb(0, 128, 0);
-  border-left-width: 5px;
-/*   left-border-style: solid; */
+  border-left: 5px solid rgb(0, 128, 0);
   padding: 10px;
 }
-
-/* .left-side {
-  border-color: green;
-  border-width: 5px;
-  border-style: solid;
-  padding: 10px;
-} */
-
 .heading {
   font-size: 20px;
 }
-
 .heading {
   color: rgb(255, 255, 255);
 }
